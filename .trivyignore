@@ -19,3 +19,11 @@ CVE-2026-13221
 CVE-2026-57433 
 CVE-2025-47273
 GHSA-6v7p-g79w-8964
+
+# Workshop POC exception (2026-09-26): current Python slim image findings.
+# Keep the scan enabled; review these IDs before using the images beyond the exercise.
+CVE-2026-16742
+CVE-2026-76642
+CVE-2026-78408
+CVE-2026-78409
+CVE-2026-78410
